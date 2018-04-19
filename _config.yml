@@ -13,8 +13,8 @@ baseurl: "/"
 url: "https://standardmeta.com"
 twitter_username: "#"
 github_username:  "#"
-color_theme:  "#2c385e"
-color_text:  "#fff"
+color_theme:  "#ffffff"
+color_text:  "#000000"
 language:  "en"
 
 # Build settings
